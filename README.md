@@ -1,3 +1,6 @@
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFhZnhvMWx3M2VyZ2lobW1jenY5bzZycGQ1cXlxYzVncWs3anp3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J0kGqZWPmvTvuzwD2G/giphy.gif" width="300" height="300" alt="Coding GIF"></img>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmk1NHh0dW0ycWUxN3RhYjJodHZycjU1YXFsczM1Y2twcmV0cDc1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FWpozKBgrQD4MZwDC/giphy.gif" width="300" height="300" alt="Coding GIF"></img>
+
 ## Привет👋
 ### Меня зовут Дмитрий и я python-разработчик!
 #### Разработкой занимаюсь уже полтора года, за это время сделал несколько проектов, от телеграм ботов до интернет магазинов.
